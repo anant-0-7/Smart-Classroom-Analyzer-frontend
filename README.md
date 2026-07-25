@@ -5,13 +5,6 @@
 - **Frontend:** https://github.com/anant-0-7/Smart-Classroom-Analyzer-frontend
 - **Backend:** https://github.com/anant-0-7/Smart-Classroom-Analyzer-backend
 
-Smart Classroom Analyzer is a full-stack classroom monitoring project with:
-
-- a React + Vite frontend
-- an Express + MongoDB backend
-- Roboflow-powered video analysis
-- two operating modes for classroom review and exam monitoring
-
 ## Project Overview
 
 The project is designed for teachers.
