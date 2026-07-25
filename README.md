@@ -1,5 +1,10 @@
 # Smart Classroom Analyzer
 
+## Repositories
+
+- **Frontend:** https://github.com/anant-0-7/Smart-Classroom-Analyzer-frontend
+- **Backend:** https://github.com/anant-0-7/Smart-Classroom-Analyzer-backend
+
 Smart Classroom Analyzer is a full-stack classroom monitoring project with:
 
 - a React + Vite frontend
